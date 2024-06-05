@@ -2,11 +2,11 @@
 
 # Guide: 
 
--- remove the .example from .env.example
-
 To clone: git clone https://github.com/PalermoJ12/palermo-API-Test
 
-$--> cd api-express
+# remove the .example from .env.example
+
+$--> cd Api-Express
 
 $--> npm i or npm install
 
