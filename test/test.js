@@ -1,7 +1,8 @@
 const request = require("supertest");
 const app = require("../server");
 
-//import utils for my inputs in user testing
+//importing utils for testing of inputs
+//this serves as my source of data to sendex
 const {
   registerUser,
   registerUserForDelete,
@@ -11,7 +12,6 @@ const {
   updateUserDetails,
 } = require("../utils/userData.utils");
 
-//import utils for my inputs in product testing
 const {
   loginForProduct,
   registerProduct,
