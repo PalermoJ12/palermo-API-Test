@@ -4,7 +4,7 @@
 
 To clone: git clone https://github.com/PalermoJ12/palermo-API-Test
 
-# remove the .example from .env.example
+# remove the .example from .env.example -- before running the test
 
 $--> cd palermo-API-Test
 
