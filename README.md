@@ -6,7 +6,7 @@ To clone: git clone https://github.com/PalermoJ12/palermo-API-Test
 
 # remove the .example from .env.example
 
-$--> cd Api-Express
+$--> cd palermo-API-Test
 
 $--> npm i or npm install
 
